@@ -1,2 +1,6 @@
 chat_history.txt
 ~$*.docx
+__pycache__/
+*.pyc
+*.db
+backups/
